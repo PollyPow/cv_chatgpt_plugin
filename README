@@ -1,0 +1,7 @@
+                                              CV-Improvement Chat GPT Plug-in
+
+Functionality description:
+  receiving an uploaded PDF-file (CV), private information that needs to be removed and job description from a website;
+  converting a PDF-file to a text;
+  removing all the words matching the private information of a user;
+  sending a prompt to the ChatGPT so that it responds with the suggestions about how to make user’s CV suit the job description better.
